@@ -1,0 +1,9 @@
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\bin\Debug\MVCDemoDb.dacpac
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\bin\Debug\MVCDemoDb.dll
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\bin\Debug\MVCDemoDb.pdb
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\obj\Debug\Model.xml
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\obj\Debug\refactor.xml
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\obj\Debug\postdeploy.sql
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\obj\Debug\predeploy.sql
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\obj\Debug\MVCDemoDb.dll
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\MVCDemoDb\obj\Debug\MVCDemoDb.pdb

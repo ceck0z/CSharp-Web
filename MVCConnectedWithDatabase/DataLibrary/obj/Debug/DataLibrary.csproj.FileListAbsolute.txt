@@ -1,0 +1,7 @@
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\bin\Debug\DataLibrary.dll
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\bin\Debug\Dapper.dll
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\bin\Debug\Dapper.xml
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\obj\Debug\DataLibrary.dll
+D:\Training\C Sharp Projects\MVC\MVCConnectedWithDatabase\DataLibrary\obj\Debug\DataLibrary.pdb
